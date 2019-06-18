@@ -1,0 +1,50 @@
+
+@media all and (max-width: 768px){
+	.container-fluid{
+		width: 100%;
+		height: auto;
+		
+	}
+	.navbar{
+		width: 100%;
+		float: none;
+	}
+	.prizing-section .pic1,
+	.prizing-section .pic2,
+	.prizing-section .pic3,
+	.prizing-section .pic4{
+		width: 100%;
+		height: 649px;
+		
+	}
+	.article-section1 .container{
+		background-size: 100% 100%;
+		height:970px;
+		width: 100%;
+		float: none;
+		background-position: left top;
+	}
+		.footer-section .col-md-3{
+				width: 100%;
+		}
+		.footer-section .col-md-2{
+				width: 100%;
+				
+		}
+		.footer-section .col-md-2 h4{
+			margin-left: 200px;
+			padding: 30px 30px;
+		}
+		.footer-section .col-md-2 h5{
+			margin-left: 200px;
+		}
+		.footer-section input[type=email]{
+         width: 80%;
+}
+	.footer-section .col-md-3 img{
+		width: 100%;
+		height: 45px;
+		margin-left:210px;
+
+	}
+}
